@@ -20,7 +20,7 @@ Common business sub-systems in an ERP system by the order of how essential and i
 
 [Distribution and logistics](https://github.com/jonfernq/SimpleERP/tree/main/Distribution-Logistics): This subsystem is responsible for managing the distribution and logistics of goods and services, including warehouse management and transportation.
 
-IT infrastructure and support: This subsystem is responsible for managing the IT infrastructure and support, including hardware, software, and network management.
+[IT infrastructure and support](https://github.com/jonfernq/SimpleERP/tree/main/IT-Infrastructure-Support): This subsystem is responsible for managing the IT infrastructure and support, including hardware, software, and network management.
 
 [Compliance management](https://github.com/jonfernq/SimpleERP/tree/main/Compliance-Management): This subsystem is responsible for managing compliance with laws and regulations, including health and safety, data protection, and environmental regulations.
 
