@@ -16,7 +16,7 @@ Common business sub-systems in an ERP system by the order of how essential and i
 
 [Project management](https://github.com/jonfernq/SimpleERP/tree/main/Project-Management): This subsystem is responsible for managing projects, including planning, budgeting, and tracking progress.
 
-Quality management: This subsystem is responsible for managing the quality of goods and services, including inspection, testing, and quality assurance.
+[Quality management](https://github.com/jonfernq/SimpleERP/tree/main/Quality-Management): This subsystem is responsible for managing the quality of goods and services, including inspection, testing, and quality assurance.
 
 [Distribution and logistics](https://github.com/jonfernq/SimpleERP/tree/main/Distribution-Logistics): This subsystem is responsible for managing the distribution and logistics of goods and services, including warehouse management and transportation.
 
