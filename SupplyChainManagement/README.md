@@ -1,4 +1,4 @@
-## Supply Chain Management
+## Supply Chain (SC) system
 
 This subsystem is responsible for managing the flow of goods and services, including procurement, inventory management, and distribution.
 
@@ -23,3 +23,8 @@ A supply chain management system for a small company typically performs a variet
 - **Compliance**: Ensuring compliance with customs, trade, and other legal regulations related to supply chain management.
 
 - **Analytics and reporting**: Providing real-time insights on supply chain performance, inventory levels, and other metrics to help inform business decisions.
+
+### SC DB Tables
+
+SC DB tables are described by SQL Create statements in the [scm-create-tables.sql] (https://github.com/jonfernq/SimpleERP/blob/main/SupplyChainManagement/scm-create-db.sql) file.
+
