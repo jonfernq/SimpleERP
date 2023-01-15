@@ -18,7 +18,7 @@ Project management: This subsystem is responsible for managing projects, includi
 
 Quality management: This subsystem is responsible for managing the quality of goods and services, including inspection, testing, and quality assurance.
 
-Distribution and logistics: This subsystem is responsible for managing the distribution and logistics of goods and services, including warehouse management and transportation.
+[Distribution and logistics](https://github.com/jonfernq/SimpleERP/tree/main/Distribution-Logistics): This subsystem is responsible for managing the distribution and logistics of goods and services, including warehouse management and transportation.
 
 IT infrastructure and support: This subsystem is responsible for managing the IT infrastructure and support, including hardware, software, and network management.
 
