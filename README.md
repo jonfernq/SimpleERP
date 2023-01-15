@@ -10,7 +10,7 @@ Common business sub-systems in an ERP system by the order of how essential and i
 
 [Human Resources](https://github.com/jonfernq/SimpleERP/tree/main/Human-Resources): This subsystem is responsible for managing the organization's human resources, including recruiting, hiring, and payroll management.
 
-Manufacturing and production: This subsystem is responsible for managing the manufacturing and production processes, including planning, scheduling, and execution of production orders.
+[Manufacturing and production](https://github.com/jonfernq/SimpleERP/tree/main/Manufacturing-Production): This subsystem is responsible for managing the manufacturing and production processes, including planning, scheduling, and execution of production orders.
 
 [Sales and customer management](https://github.com/jonfernq/SimpleERP/tree/main/Sales-Customer-Management): This subsystem is responsible for managing sales and customer relationships, including order management, invoicing, and customer service.
 
