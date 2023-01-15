@@ -12,7 +12,7 @@ Common business sub-systems in an ERP system by the order of how essential and i
 
 Manufacturing and production: This subsystem is responsible for managing the manufacturing and production processes, including planning, scheduling, and execution of production orders.
 
-Sales and customer management: This subsystem is responsible for managing sales and customer relationships, including order management, invoicing, and customer service.
+[Sales and customer management](https://github.com/jonfernq/SimpleERP/tree/main/Sales-Customer-Management): This subsystem is responsible for managing sales and customer relationships, including order management, invoicing, and customer service.
 
 Project management: This subsystem is responsible for managing projects, including planning, budgeting, and tracking progress.
 
