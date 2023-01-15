@@ -27,7 +27,7 @@ The time and attendance tracking process provides the input for the payroll syst
 
 ### HR DB Tables
 
-[[https://github.com/jonfernq/SimpleERP/blob/1ed24ecb6702116246c6bb3b88803c6c0bcef1ba/Human-Resources/hr_plantuml.jpg]]
+[[Human-Resources/hr_plantuml.jpg]]
 
 HR DB tables are described by SQL Create statements in the [hr-create-tables.sql](https://github.com/jonfernq/SimpleERP/blob/main/Human-Resources/hr-create-tables.sql) file.
 
