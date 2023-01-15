@@ -14,7 +14,7 @@ Common business sub-systems in an ERP system by the order of how essential and i
 
 [Sales and customer management](https://github.com/jonfernq/SimpleERP/tree/main/Sales-Customer-Management): This subsystem is responsible for managing sales and customer relationships, including order management, invoicing, and customer service.
 
-Project management: This subsystem is responsible for managing projects, including planning, budgeting, and tracking progress.
+[Project management](https://github.com/jonfernq/SimpleERP/tree/main/Project-Management): This subsystem is responsible for managing projects, including planning, budgeting, and tracking progress.
 
 Quality management: This subsystem is responsible for managing the quality of goods and services, including inspection, testing, and quality assurance.
 
