@@ -19,17 +19,17 @@ A human resources management system for a small company typically performs a var
 
 - **Employee self-service:** providing employees with a secure portal to access their personal and professional information, request time off, and manage their benefits.
 
-### Payroll Sub-System
-
-The process of "Time and attendance tracking: keeping track of when employees arrive and leave, calculating hours worked, and generating paychecks" is closely related to the payroll system, which is a sub-process of the human resources management system. The payroll system is responsible for processing employee paychecks, calculating taxes and other deductions, and maintaining records of all employee compensation and deductions.
-
-The time and attendance tracking process provides the input for the payroll system by keeping track of the hours worked by each employee, which is then used to calculate their pay. The payroll system then uses this information to generate paychecks, calculate taxes and other deductions, and maintain records of all employee compensation and deductions. The two processes are closely integrated and work together to ensure that employees are paid accurately and on time.
-
 ### HR DB Tables
 
 ![hr_plantuml](https://user-images.githubusercontent.com/68504324/212562155-5261f4c5-3e41-47bc-8a20-dd8aab5ece6b.jpg)
 
 HR DB tables are described by SQL Create statements in the [hr-create-tables.sql](https://github.com/jonfernq/SimpleERP/blob/main/Human-Resources/hr-create-tables.sql) file.
+
+### Payroll Sub-System
+
+The process of "Time and attendance tracking: keeping track of when employees arrive and leave, calculating hours worked, and generating paychecks" is closely related to the payroll system, which is a sub-process of the human resources management system. The payroll system is responsible for processing employee paychecks, calculating taxes and other deductions, and maintaining records of all employee compensation and deductions.
+
+The time and attendance tracking process provides the input for the payroll system by keeping track of the hours worked by each employee, which is then used to calculate their pay. The payroll system then uses this information to generate paychecks, calculate taxes and other deductions, and maintain records of all employee compensation and deductions. The two processes are closely integrated and work together to ensure that employees are paid accurately and on time.
 
 
 
