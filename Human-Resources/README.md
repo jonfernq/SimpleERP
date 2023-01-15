@@ -28,7 +28,8 @@ The time and attendance tracking process provides the input for the payroll syst
 ### HR DB Tables
 
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
-![HR DB](Human-Resources/hr_plantuml.jpg?raw=true "Title")
+![HR DB](/assets/images/hr_plantuml.jpg?raw=true "HR DB")
+Human-Resources/hr_plantuml.jpg
 
 [[https://github.com/jonfernq/SimpleERP/blob/b1813688d7fd1379471c54b5b4c825afd598fd41/Human-Resources/hr_plantuml.jpg]]
 
