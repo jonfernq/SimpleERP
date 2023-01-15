@@ -33,7 +33,7 @@ A general ledger system for a small company typically performs the following bus
 
 - **Account reconciliation:** Comparing and reconciling the general ledger with other financial records, such as bank statements and sub-ledgers, to ensure accuracy.
 
-- **Financial reporting: Generating financial statements, such as income statements, balance sheets, and cash flow statements, by extracting data from the general ledger.
+- **Financial reporting:** Generating financial statements, such as income statements, balance sheets, and cash flow statements, by extracting data from the general ledger.
 
 - **Chart of Accounts:** Organizing financial transactions into logical categories, such as revenue, expenses, and assets, and assigning unique codes to each account in the general ledger.
 
@@ -51,4 +51,5 @@ A general ledger system for a small company typically performs the following bus
 
 ### GL DB Tables
 
+GL DB tables are described by SQL Create statements in the [gl-create-tables.sql](https://github.com/jonfernq/SimpleERP/blob/main/General-Ledger/gl-create-tables.sql) file.
 
