@@ -22,7 +22,7 @@ Common business sub-systems in an ERP system by the order of how essential and i
 
 IT infrastructure and support: This subsystem is responsible for managing the IT infrastructure and support, including hardware, software, and network management.
 
-Compliance management: This subsystem is responsible for managing compliance with laws and regulations, including health and safety, data protection, and environmental regulations.
+[Compliance management](https://github.com/jonfernq/SimpleERP/tree/main/Compliance-Management): This subsystem is responsible for managing compliance with laws and regulations, including health and safety, data protection, and environmental regulations.
 
 
 
