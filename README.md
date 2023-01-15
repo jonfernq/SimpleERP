@@ -4,7 +4,7 @@ Conceptually simple ERP with data and business processes explained with diagrams
 
 Common business sub-systems in an ERP system by the order of how essential and important they are to business operations.
 
-Financial management: This is one of the most essential and important sub-systems in an ERP system as it is responsible for managing the financial transactions and generating financial reports such as balance sheets, income statements, and cash flow statements.
+[Financial management](https://github.com/jonfernq/SimpleERP/tree/main/General-Ledger): This is one of the most essential and important sub-systems in an ERP system as it is responsible for managing the financial transactions and generating financial reports such as balance sheets, income statements, and cash flow statements.
 
 [Supply Chain Management](https://github.com/jonfernq/SimpleERP/tree/main/SupplyChainManagement): This subsystem is responsible for managing the flow of goods and services, including procurement, inventory management, and distribution.
 
