@@ -11,14 +11,28 @@ Here is an example of the SQL CREATE code for the tables that would be needed fo
 -- Accounts table:
 
 CREATE TABLE Accounts (
-    AccountID INT PRIMARY KEY,
-    AccountName VARCHAR(255) NOT NULL,
-    AccountType VARCHAR(255) NOT NULL
+AccountID INT PRIMARY KEY,
+AccountName VARCHAR(255) NOT NULL,
+AccountType VARCHAR(255) NOT NULL,
+IsPostingAccount BOOLEAN NOT NULL
 );
 
 /* This table will hold the different types of accounts in the general ledger, such as accounts payable, 
 accounts receivable, and cash. The AccountID is the primary key and AccountName and AccountType are the 
 columns that store the name and type of the account respectively. */ 
+
+-- Chart of Accounts table:
+
+CREATE TABLE ChartOfAccounts (
+AccountID INT PRIMARY KEY,
+ParentAccountID INT,
+AccountLevel INT NOT NULL,
+FOREIGN KEY (AccountID) REFERENCES Accounts(AccountID),
+FOREIGN KEY (ParentAccountID) REFERENCES ChartOfAccounts(AccountID)
+);
+
+/* This table holds the tree-like structure of the chart of accounts  that shows how subsidiary 
+accounts are related to and roll-up to parent accounts */
 
 -- Journal table:
 
