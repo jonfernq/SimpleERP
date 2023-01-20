@@ -1,5 +1,5 @@
 # SimpleERP
-Conceptually simple ERP with data and business processes explained with diagrams.
+Conceptually simple headless ERP with data and business processes explained with diagrams.
 
 
 Common business sub-systems in an ERP system by the order of how essential and important they are to business operations.
