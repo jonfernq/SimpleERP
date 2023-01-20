@@ -4,6 +4,8 @@ Conceptually simple headless ERP with data and business processes explained with
 
 Common business sub-systems in an ERP system by the order of how essential and important they are to business operations.
 
+[Database Utilities](https://github.com/jonfernq/SimpleERP/tree/main/db-utilities): Python code to create, populate with synthetic artificial test data, and produce reports from, the SQLite databases of the SimpleERP system.
+
 [Financial management](https://github.com/jonfernq/SimpleERP/tree/main/General-Ledger): This is one of the most essential and important sub-systems in an ERP system as it is responsible for managing the financial transactions and generating financial reports such as balance sheets, income statements, and cash flow statements.
 
 [Supply Chain Management](https://github.com/jonfernq/SimpleERP/tree/main/SupplyChainManagement): This subsystem is responsible for managing the flow of goods and services, including procurement, inventory management, and distribution.
