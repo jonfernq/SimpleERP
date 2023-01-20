@@ -1,6 +1,6 @@
 ## Database Utilities
 
-Python utilities to do many simple things with SQLite databases. 
+Python code to create, populate with synthetic artificial test data, and produce reports from, the SQLite databases of the SimpleERP system.
 
 ### Database Creation
 
