@@ -27,5 +27,5 @@ A supply chain management system for a small company typically performs a variet
 ### SC DB Tables
 
 SC DB tables are described by SQL Create statements in the 
-[sc-create-tables.sql](https://github.com/jonfernq/SimpleERP/blob/main/SupplyChainManagement/sc-create-db.sql) file.
+[sc-create-tables.sql](https://github.com/jonfernq/SimpleERP/blob/main/SupplyChainManagement/sc-create-tables.sql) file.
 
