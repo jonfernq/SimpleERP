@@ -10,7 +10,7 @@ When the finance or accounting department processes employee expense reports in 
 
 ![expense-management](https://user-images.githubusercontent.com/68504324/213844629-0eaa8b18-2292-4e4b-b2f3-089e55bdc8bf.png)
 
-DB tables are described by SQL Create statements in the em-create-tables.sql file.
+DB tables are described by SQL Create statements in the [em-create-tables.sql](https://github.com/jonfernq/SimpleERP/blob/main/Expense-Management/em-create-tables.sql) file.
 
 ### Test Data 
 Realistic test is created by [em-test-data.py](https://github.com/jonfernq/SimpleERP/blob/main/Expense-Management/em-test-data.py), consisting of SQL Insert statements in the [expense-management-data.sql](https://github.com/jonfernq/SimpleERP/blob/main/Expense-Management/expense-management-data.sql) file.
