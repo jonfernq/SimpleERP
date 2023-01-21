@@ -31,5 +31,14 @@ The process of "Time and attendance tracking: keeping track of when employees ar
 
 The time and attendance tracking process provides the input for the payroll system by keeping track of the hours worked by each employee, which is then used to calculate their pay. The payroll system then uses this information to generate paychecks, calculate taxes and other deductions, and maintain records of all employee compensation and deductions. The two processes are closely integrated and work together to ensure that employees are paid accurately and on time.
 
+### Expense Management
+When the finance or accounting department processes employee expense reports in a small company, the typical business processes that are part of this include:
+1.  Review and verify: Reviewing and verifying expense reports for compliance with company policies and guidelines
+2.  Reimburse or pay: Processing employee reimbursements and/or payments for expenses
+3.  Record and track: Recording and tracking expenses in the company's financial system or accounting software
+4.  Audit and reconcile: Auditing and reconciling expenses with credit card statements or receipts
+5.  Analyze and report:  Generating reports and analysis of expense data to identify trends or areas for cost savings
+6.  Communicate and educate: Communicating with employees and managers regarding expense policies and procedures.
+
 
 
