@@ -18,6 +18,11 @@ A sales and customer management system for a small company typically performs a 
 
 - **Analytics and reporting:** providing real-time insights on sales performance, customer behavior and other metrics to help inform business decisions.
 
+### SCM Business Processes 
+
+![sales_business_processes](https://user-images.githubusercontent.com/68504324/213828647-01ab890b-a3f7-44ea-b184-05798cc0ccee.png)
+
+
 ### SCM DB Tables 
 
 ![sales_dbs](https://user-images.githubusercontent.com/68504324/212563066-6e9257dc-9ace-46cf-a156-7fa33fcba1c7.png)
