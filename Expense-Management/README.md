@@ -18,7 +18,7 @@ Realistic test is created by [em-test-data.py](https://github.com/jonfernq/Simpl
 ### Reporting
 An employee expense management system such as the one described above can produce a variety of reports, some examples include:
 
-1.  Expense Report by Employee: This report shows the total expenses incurred by each employee, as well as a breakdown of expenses by category.
+1.  [Expense Report by Employee](https://github.com/jonfernq/SimpleERP/blob/main/Expense-Management/expense-report-by-employee.py): This report shows the total expenses incurred by each employee, as well as a breakdown of expenses by category.
 2.  Expense Report by Category: This report shows the total expenses incurred for each category, as well as a breakdown of expenses by employee.
 3.  Expense Report by Date: This report shows the total expenses incurred for a specific date range, as well as a breakdown of expenses by employee and category.
 4.  Out of Policy Report: This report shows all expenses that were incurred that do not comply with the company's expense policy.
