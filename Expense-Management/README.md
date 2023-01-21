@@ -13,7 +13,7 @@ When the finance or accounting department processes employee expense reports in 
 DB tables are described by SQL Create statements in the em-create-tables.sql file.
 
 ### Test Data 
-Realistic test is created by XXX, consisting of SQL Insert statements in the em-test-data.sql file.
+Realistic test is created by [em-test-data.py](https://github.com/jonfernq/SimpleERP/blob/main/Expense-Management/em-test-data.py), consisting of SQL Insert statements in the [expense-management-data.sql](https://github.com/jonfernq/SimpleERP/blob/main/Expense-Management/expense-management-data.sql) file.
 
 ### Reporting
 An employee expense management system such as the one described above can produce a variety of reports, some examples include:
