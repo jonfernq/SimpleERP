@@ -21,7 +21,7 @@ CREATE TABLE Category (
    CategoryID INT PRIMARY KEY,
    Description VARCHAR(50) NOT NULL
 );
-
+  
 CREATE TABLE ExpenseCategory (
    ExpenseID INT NOT NULL,
    CategoryID INT NOT NULL,
