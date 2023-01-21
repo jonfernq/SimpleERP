@@ -40,5 +40,9 @@ When the finance or accounting department processes employee expense reports in 
 5.  Analyze and report:  Generating reports and analysis of expense data to identify trends or areas for cost savings
 6.  Communicate and educate: Communicating with employees and managers regarding expense policies and procedures.
 
+### EM BD Tables
 
+![expense-management](https://user-images.githubusercontent.com/68504324/213843875-5ff744d3-77c4-402d-b50f-f19758ab7d90.png)
+
+EM DB tables are described by SQL Create statements in the [em-create-tables.sql](https://github.com/jonfernq/SimpleERP/blob/main/Human-Resources/em-create-tables.sql) file.
 
