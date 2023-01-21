@@ -1,0 +1,31 @@
+@startuml
+class Employee {
+    +EmployeeID : int
+    +FirstName : String
+    +LastName : String
+    +Email : String
+}
+
+class Expense {
+    +ExpenseID : int
+    +EmployeeID : int
+    +Date : Date
+    +Description : String
+    +Amount : decimal
+}
+
+class Category {
+    +CategoryID : int
+    +Description : String
+}
+
+class Receipt {
+    +ReceiptID : int
+    +ExpenseID : int
+    +Image : BLOB
+}
+
+Expense -- Employee
+Expense -- "*" Category
+Expense -- "1" Receipt
+@enduml
