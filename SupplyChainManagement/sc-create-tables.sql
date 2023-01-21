@@ -5,7 +5,7 @@
 -- The "PurchaseOrders" table stores information about purchase orders, including the -- purchase order ID, date, and vendor ID.
 -- The "PODetails" table stores the details of purchase orders, including purchase order -- detail ID, purchase order ID, product ID, quantity, and price.
 -- The "Inventory" table stores the current inventory levels for each product, including -- the product ID and quantity.
-
+ 
 -- Products table
 CREATE TABLE Products (
     ProductID INT PRIMARY KEY,
