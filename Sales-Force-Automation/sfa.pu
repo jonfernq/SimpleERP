@@ -1,0 +1,85 @@
+@startuml
+class leads {
+  +lead_id:int
+  +name:string
+  +email:string
+  +phone:string
+  +address:string
+  +status:enum
+  +created_at:datetime
+}
+
+class accounts {
+  +account_id:int
+  +name:string
+  +email:string
+  +phone:string
+  +address:string
+  +created_at:datetime
+}
+
+class contacts {
+  +contact_id:int
+  +account_id:int
+  +name:string
+  +email:string
+  +phone:string
+  +created_at:datetime
+}
+
+class opportunities {
+  +opportunity_id:int
+  +account_id:int
+  +lead_id:int
+  +name:string
+  +amount:decimal
+  +stage:enum
+  +probability:int
+  +close_date:date
+  +created_at:datetime
+}
+
+class activities {
+  +activity_id:int
+  +opportunity_id:int
+  +subject:string
+  +notes:text
+  +date:date
+  +created_at:datetime
+}
+
+class sales_quotas {
+  +quota_id:int
+  +salesperson_id:int
+  +amount:decimal
+  +start_date:date
+  +end_date:date
+  +created_at:datetime
+}
+
+class sales_performance {
+  +sales_id:int
+  +salesperson_id:int
+  +opportunity_id:int
+  +amount:decimal
+  +closed_date:date
+  +created_at:datetime
+}
+
+class salespeople {
+  +salesperson_id:int
+  +name:string
+  +email:string
+  +phone:string
+  +created_at:datetime
+}
+
+leads --> accounts
+accounts --> contacts
+accounts --> opportunities
+opportunities --> activities
+opportunities --> sales_performance
+sales_performance --> salespeople
+salespeople --> sales_quotas
+
+@enduml
