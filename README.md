@@ -3,7 +3,7 @@ Conceptually simple headless ERP with data and business processes explained with
 
 'Headless' means BYO user interface. 
 
-Only API's are provided along with capability of feeding these API's with business transactions via CSV files, as input data. As Output data, system reports, and dashboard graphic data are fed to CSV, plain text, and PDF output files.  
+API's are provided which are fed business transactions via CSV files as input data. As output data, system reports and dashboard graphics are rendered to output files (and D3.js for browser graphics). 
 
 Common business sub-systems in an ERP system are listed by the order of how essential and important they are to business operations.
 
