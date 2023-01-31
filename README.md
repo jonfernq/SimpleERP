@@ -1,7 +1,7 @@
 # SimpleERP
 Conceptually simple headless ERP with data and business processes explained with diagrams.
 
-'Headless' means BYO user interface. 
+Two simple user interfaces or data input modes with data validation exist: 1. CSV file, and 2. Command Line Interface (CLI).  
 
 API's are provided which are fed business transactions via CSV files as input data. As output data, system reports and dashboard graphics are rendered to output files (and D3.js for browser graphics). 
 
