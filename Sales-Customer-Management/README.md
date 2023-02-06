@@ -43,7 +43,7 @@ A Sales and Customer Management (SCM) system typically generates the following r
 
 - **Contact Report:** This report provides information about customer contacts, including the frequency and nature of contact, and the outcome of each interaction.
 
-- ** Activity Report:** This report provides information about the sales activities, including calls made, emails sent, and appointments scheduled.
+- **Activity Report:** This report provides information about the sales activities, including calls made, emails sent, and appointments scheduled.
 
 - **Forecast Report:** This report provides information about the sales forecast, including expected sales volume, sales by region, product, or salesperson.
 
