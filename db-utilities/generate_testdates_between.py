@@ -15,9 +15,7 @@ def generate_dates(n, start_date, end_date):
         from_date = convert_to_datetime(start_date) 
         to_date = convert_to_datetime(end_date)  
         fake_date = fake.date_between(start_date=from_date, end_date=to_date)        
-        dates.append(fake_date.strftime("%Y-%m-%d"))  
-        #print(from_date, to_date, fake.date_between(start_date=from_date, end_date=to_date)) 
-        #print('fake_date: ', fake_date)         
+        dates.append(fake_date.strftime("%Y-%m-%d"))       
     return dates
     
 start_date = "2023-01-01"
