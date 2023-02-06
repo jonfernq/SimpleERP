@@ -28,3 +28,22 @@ A sales and customer management system for a small company typically performs a 
 ![sales_dbs](https://user-images.githubusercontent.com/68504324/212563066-6e9257dc-9ace-46cf-a156-7fa33fcba1c7.png)
 
 SCM DB tables are described by SQL Create statements in the [scm-create-tables.sql](https://github.com/jonfernq/SimpleERP/blob/main/Sales-Customer-Management/scm-create-tables.sql) file.
+
+### Reporting 
+
+A Sales and Customer Management (SCM) system typically generates the following reports:
+
+- **Sales Report:** This report provides information about the sales volume, sales by region, product, or salesperson, and any other relevant data about sales.
+
+- **Customer Report:** This report provides information about the customer base, including demographics, purchasing habits, and satisfaction levels.
+
+- **Inventory Report:** This report provides information about the current inventory levels, including stock on hand, stock on order, and stock in transit.
+
+- **Lead Report:** This report provides information about leads generated, including lead source, lead quality, and lead conversion rates.
+
+- **Contact Report:** This report provides information about customer contacts, including the frequency and nature of contact, and the outcome of each interaction.
+
+- ** Activity Report:** This report provides information about the sales activities, including calls made, emails sent, and appointments scheduled.
+
+- **Forecast Report:** This report provides information about the sales forecast, including expected sales volume, sales by region, product, or salesperson.
+
