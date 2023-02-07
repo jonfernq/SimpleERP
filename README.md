@@ -1,4 +1,4 @@
-# SimpleERP
+## SimpleERP
 Conceptually simple ERP with data and business processes explained with diagrams.
 
 Initially, two simple user interfaces or data input modes with data validation exist: 1. CSV file, and 2. Command Line Interface (CLI).  Additional more sophisticated user interfaces in React.js and Pynecone (Python-React,js) are planned after this. 
@@ -6,8 +6,6 @@ Initially, two simple user interfaces or data input modes with data validation e
 API's are provided which are fed business transactions via CSV files as input data. As output data, system reports and dashboard graphics are rendered to output files (and D3.js for browser graphics). 
 
 Common business sub-systems in an ERP system are listed by the order of how essential and important they are to business operations.
-
-[Database Utilities](https://github.com/jonfernq/SimpleERP/tree/main/db-utilities): Python code to create, populate with synthetic artificial test data, and produce reports from, the SQLite databases of the SimpleERP system.
 
 [Financial management](https://github.com/jonfernq/SimpleERP/tree/main/General-Ledger): This is one of the most essential and important sub-systems in an ERP system as it is responsible for managing the financial transactions and generating financial reports such as balance sheets, income statements, and cash flow statements.
 
@@ -28,6 +26,13 @@ Common business sub-systems in an ERP system are listed by the order of how esse
 [IT infrastructure and support](https://github.com/jonfernq/SimpleERP/tree/main/IT-Infrastructure-Support): This subsystem is responsible for managing the IT infrastructure and support, including hardware, software, and network management.
 
 [Compliance management](https://github.com/jonfernq/SimpleERP/tree/main/Compliance-Management): This subsystem is responsible for managing compliance with laws and regulations, including health and safety, data protection, and environmental regulations.
+
+### Utilities
+
+[Database Utilities](https://github.com/jonfernq/SimpleERP/tree/main/db-utilities): Python utilities for creating artificial test data to insert into system databases, that reports can then be generated from.
+
+[Reporting Utilities](https://github.com/jonfernq/SimpleERP/tree/main/report-utilities): Python code to support the creation of reports from system databases.  
+
 
 
 
