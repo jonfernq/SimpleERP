@@ -33,6 +33,8 @@ Common business sub-systems in an ERP system are listed by the order of how esse
 
 [Reporting Utilities](https://github.com/jonfernq/SimpleERP/tree/main/report-utilities): Python code to support the creation of reports from system databases.  
 
+[Python Utilities](https://github.com/jonfernq/Python-Utilities): Python utilities to perform a wide-variety of useful tasks.
+
 
 
 
