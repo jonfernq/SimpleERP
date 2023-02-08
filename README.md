@@ -3,6 +3,8 @@ Conceptually simple ERP with data and business processes explained with diagrams
 
 Common business sub-systems in an ERP system are listed by the order of how essential and important they are to business operations.
 
+[Python Utilities](https://github.com/jonfernq/Python-Utilities): Python utilities to perform a wide-variety of useful tasks.
+
 [Financial management](https://github.com/jonfernq/SimpleERP/tree/main/General-Ledger): This is one of the most essential and important sub-systems in an ERP system as it is responsible for managing the financial transactions and generating financial reports such as balance sheets, income statements, and cash flow statements.
 
 [Supply Chain Management](https://github.com/jonfernq/SimpleERP/tree/main/SupplyChainManagement): This subsystem is responsible for managing the flow of goods and services, including procurement, inventory management, and distribution.
@@ -34,8 +36,6 @@ API's are provided which are fed business transactions via CSV files as input da
 [Database Utilities](https://github.com/jonfernq/SimpleERP/tree/main/db-utilities): Python utilities for creating artificial test data to insert into system databases, that reports can then be generated from.
 
 [Reporting Utilities](https://github.com/jonfernq/SimpleERP/tree/main/report-utilities): Python code to support the creation of reports from system databases.  
-
-[Python Utilities](https://github.com/jonfernq/Python-Utilities): Python utilities to perform a wide-variety of useful tasks.
 
 My other GiHub is [jonfernquest.github.io](https://jonfernquest.github.io/).
 
