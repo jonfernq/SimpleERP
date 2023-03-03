@@ -1,3 +1,11 @@
+# Simple ERP, Low-Code & COBOL Modernization
+
+Conceptually simple, integrated business systems with data and business processes explained simply with diagrams and plain English.
+
+## COBOL & COBOL Modernization
+
+- [COBOLLearning](https://github.com/jonfernq/COBOL): 
+
 ## SimpleERP
 Conceptually simple ERP with data and business processes explained with diagrams.
 
