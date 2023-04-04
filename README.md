@@ -43,9 +43,7 @@ API's are provided which are fed business transactions via CSV files as input da
 
 My other GiHub is [jonfernquest.github.io](https://jonfernquest.github.io/).
 
-## COBOL & COBOL Modernization
 
-- [Learning COBOL](https://github.com/jonfernq/COBOL)
 
 
 
