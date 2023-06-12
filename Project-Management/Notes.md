@@ -15,7 +15,7 @@ There are several popular open-source project planning and management software t
 5. ProjectLibre: ProjectLibre is an open-source alternative to Microsoft Project. It offers features for project scheduling, resource allocation, and Gantt chart generation. ProjectLibre supports a wide range of file formats and provides a familiar interface for project managers.
    
 ---
-Which software package is better for creating software development project plans?  
+> Which software package is better for creating software development project plans?  
 
 The choice of project management software for creating software development plans depends on your specific requirements and preferences. Each of the tools mentioned earlier can be used effectively for creating software development plans, but they have different features and interfaces. Here are some considerations to help you make a decision:
 
@@ -29,15 +29,8 @@ The choice of project management software for creating software development plan
     
 Consider the specific features and workflows that are important to your software development planning process. Additionally, you may want to try out a few tools to see which one aligns best with your team's preferences and requirements. Ultimately, the "best" tool for creating software development plans will depend on your unique needs and the preferences of your team.
 
-* * *
-
-**You:**
-
-which ones are free ? 
-
-* * *
-
-**ChatGPT:**
+---
+> Which ones are free ? 
 
 The open-source project management tools mentioned earlier have different licensing models, and some offer free versions or community editions. Here's an overview of the licensing and pricing models for each tool:
 
@@ -51,20 +44,12 @@ The open-source project management tools mentioned earlier have different licens
     
 5. ProjectLibre: ProjectLibre is released under the Common Public Attribution License (CPAL) and is entirely free and open source.
     
-
 While the community editions of these tools provide the core project management features you would need for software development planning, it's worth noting that some vendors offer additional premium features or enterprise-level support as part of their paid versions. So, if you require specific advanced features or enterprise-level support, you might consider exploring the paid options.
 
 It's recommended to visit the respective websites of these tools to get more detailed information about their licensing and pricing options to make an informed decision.
 
-* * *
-
-**You:**
-
-what techniques are used to schedule a software project ? 
-
-* * *
-
-**ChatGPT:**
+---
+> What techniques are used to schedule a software project ? 
 
 Scheduling a software project involves various techniques to plan and allocate resources, estimate durations, and create a timeline. Here are some commonly used techniques for scheduling software projects:
 
@@ -84,18 +69,10 @@ Scheduling a software project involves various techniques to plan and allocate r
     
 8. Project Management Software: Utilizing project management software tools can streamline the scheduling process. These tools often provide features like Gantt charts, task dependencies, resource allocation, and automatic schedule calculation.
     
-
 It's important to note that scheduling a software project is an iterative process, as requirements may change, new tasks may arise, and estimations may need adjustment. Regular monitoring, progress tracking, and adaptation are key elements of successful scheduling in software development projects.
 
-* * *
-
-**You:**
-
-What are some books that cover these techniques?  Are they part of PMP certification? 
-
-* * *
-
-**ChatGPT:**
+--- 
+> What are some books that cover these techniques?  Are they part of PMP certification? 
 
 Several books cover project scheduling techniques in the context of software development and project management. Here are some recommended titles:
 
@@ -111,4 +88,3 @@ Regarding the Project Management Professional (PMP) certification, the technique
 
 However, it's worth noting that the PMBOK® Guide is a general guide for project management and not specific to software development. It provides a foundation of project management principles and practices that can be applied to various industries, including software development.
 
-Supplementing your study with additional resources, such as the books mentioned above, can provide a more focused and detailed understanding of project scheduling techniques in the context of software development.
